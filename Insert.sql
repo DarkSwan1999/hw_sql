@@ -1,0 +1,53 @@
+--insert into genres (name) values
+--('Rock'),
+--('Pop'),
+--('Hip-hop'),
+--('Jazz'),
+--('Electronic');
+--
+--insert into artists (name) values
+--('Queen'),
+--('Michael Djacson'),
+--('Byeonce'),
+--('The Beatles'),
+--('Alla Pugachova'),
+--('Stas Michaelov'),
+--('Eminem'),
+--('Pink Floyd');
+--
+--insert into albums (name, year, artist_id) values
+--('Bohem Rapsodia', 1975, 1),
+--('Thriller', 1982, 2),
+--('Old the singl ladyes', 2008, 3),
+--('Abbey Road', 1969, 4),
+--('Zerkalo dushi', 1978, 5),
+--('Ti - vse', 2017, 6),
+--('Encore', 2004, 7),
+--('The dark side of the moon', 1973,8);
+--
+--INSERT INTO tracks (name, duration, album_id) VALUES
+--('We Will Rock You', '2:01', 1),
+--('Bohemian Rhapsody', '5:54', 1),
+--('Don''t Stop Me Now', '3:29', 1),
+--('Beat It', '4:18', 2),
+--('Thriller', '5:57', 2),
+--('Billie Jean', '4:54', 2),
+--('Single Ladies', '3:13', 3),
+--('If I Were a Boy', '4:09', 3),
+--('Halo', '3:45', 3),
+--('Come Together', '4:20', 4),
+--('Here Comes the Sun', '3:05', 4),
+--('Something', '3:03', 4),
+--('Million Alyh Roz', '3:45', 5),
+--('Zhuravli', '4:40', 5),
+--('Arlekino', '4:35', 5);
+
+--INSERT INTO compilations (name, year) VALUES
+--('Best of Rock', 2022),
+--('Top Pop Hits', 2021),
+--('Hip-hop Classics', 2019),
+--('Jazz Standards', 2020),
+--('Electronic Anthems', 2018),
+--('80s Mixtape', 2017),
+--('Greatest Hits of 90s', 2016),
+--('Chillout Lounge', 2015);
